@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>GrasWurzelGrün - Klimaschutz am UKD</title>
+<title>GrasWurzelGrün - About</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -90,12 +124,12 @@ cookieconsent.run({
 
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="GrasWurzelGrün - Klimaschutz am UKD">
-<meta property="og:description" content="Die Uniklinik wird grün!">
+<meta property="og:title" content="GrasWurzelGrün - About">
+<meta property="og:description" content="">
 <meta property="og:image" content="images/grass_2.jpg">
 <meta property="og:site_name" content="GrasWurzelGrün">
-<meta name="twitter:title" content="GrasWurzelGrün - Klimaschutz am UKD">
-<meta name="twitter:description" content="Die Uniklinik wird grün!">
+<meta name="twitter:title" content="GrasWurzelGrün - About">
+<meta name="twitter:description" content="">
 <meta name="twitter:image" content="images/grass_2.jpg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -121,12 +155,12 @@ cookieconsent.run({
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Start</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./news.html"> 
-<span class="menu-text">News</span></a>
+    <a class="nav-link active" href="./about.html" aria-current="page"> 
+<span class="menu-text">About</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -147,8 +181,7 @@ cookieconsent.run({
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Klimaschutz am UKD</h1>
-<p class="subtitle lead">Die Uniklinik wird grün!</p>
+<h1 class="title">About</h1>
 </div>
 
 
@@ -165,25 +198,13 @@ cookieconsent.run({
 </header>
 
 
-<div class="banner">
-
+<p>About this site</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">1</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 2</code></pre>
 </div>
-<script>
-var OPWIDGET = {
-    "base_url": "https://www.openpetition.de",
-    "api_key": "503d7cf8e695626c0141b79fe478633307953f5275042f55d0095805a4fc5dce",
-    "options": {
-        "primarycolor": "#29b0cc", // andere Farben: https://www.w3schools.com/colors/colors_picker.asp
-        "secondarycolor": "#3e3d40",
-        "backgroundcolor": "#ffffff",
-        "mainfontsize": "15px"
-    }
-};
-</script>
-<script src="https://www.openpetition.de/javascript/widget.js"></script>
-<noscript>
-Bitte aktivieren Sie JavaScript und laden die Seite neu.
-</noscript>
+</div>
 
 
 
@@ -604,7 +625,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p><a href="./impressum.html">Impressum</a> - <a href="./datenschutzerklaerung.html">Datenschutzerklärung</a></p>
+<p><a href="./impressum.qmd">Impressum</a> - <a href="./datenschutzerklaerung.qmd">Datenschutzerklärung</a></p>
 <div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
       &nbsp;

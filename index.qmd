@@ -1,11 +1,21 @@
 ---
-title: "dd"
+title: "Klimaschutz am UKD"
+subtitle: "Die Uniklinik wird grün!"
 ---
 
-This is a Quarto website.
+<div class="banner"></div>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+<script>
+var OPWIDGET = {
+	"base_url": "https://www.openpetition.de",
+	"api_key": "503d7cf8e695626c0141b79fe478633307953f5275042f55d0095805a4fc5dce",
+	"options": {
+		"primarycolor": "#29b0cc", // andere Farben: https://www.w3schools.com/colors/colors_picker.asp
+		"secondarycolor": "#3e3d40",
+		"backgroundcolor": "#ffffff",
+		"mainfontsize": "15px"
+	}
+};
+</script>
+<script src="https://www.openpetition.de/javascript/widget.js"></script>
+<noscript>Bitte aktivieren Sie JavaScript und laden die Seite neu.</noscript>

@@ -1,1 +1,9 @@
 /* css styles */
+
+.banner {
+  background-image: url('images/grass_2.jpg'); /* Path to your image */
+  background-repeat: repeat-x; /* Repeat horizontally */
+  height: 100px; /* Set the height of the banner */
+  width: 100%; /* Make it span the full width */
+  background-size: contain; /* Ensure the image fits nicely */
+}
