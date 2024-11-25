@@ -19,6 +19,7 @@ website:
   open-graph: true
   image: images/grass_2.jpg
   body-header: "Diese Webseite ist am Entstehen. Die Inhalte sind noch nicht belastbar, nicht überprüft. Bei Rückfragen bitte die im Impressum genannte Person kontaktieren -- danke!"
+  body-footer: "Banner und Logo basieren auf einem Ausschnitt eines Fotos des Nutzers Tobias Geberth von Wikipedia ([Link](https://commons.wikimedia.org/w/index.php?title=File:Grass.jpg&oldid=451166142)) unter der Lizenz [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5)"
 format:
   html:
     theme: cosmo
