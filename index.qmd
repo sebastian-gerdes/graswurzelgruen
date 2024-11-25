@@ -18,39 +18,4 @@ Auch wenn unsere Schritte im globalen Kontext klein erscheinen mögen, könnte d
 
 Wer mag, trete gern mit diesem [Link](https://signal.group/#CjQKIDh6EFRxpkJBwy1onl21FlMoOnqu74Owc2Tha9rb1oBsEhBo912oRq88p9McaeI1JC71) der Graswurzelgrün-[Signal](https://de.wikipedia.org/wiki/Signal_(Messenger))-Gruppe um auf dem Laufen zu bleiben und sich mit Gleichgesinnten zu vernetzen!
 
-<!-- ### Warum jetzt? -->
-<!-- Klimaschutz darf nicht länger warten. Maßnahmen sollten zeitnah und mit hoher Priorität geplant und umgesetzt werden. Dabei geht es nicht nur um ökologisch sinnvolle Veränderungen, sondern auch um ökonomische Nachhaltigkeit. Jede bauliche oder organisatorische Entscheidung muss den Klimaschutz als zentralen Aspekt berücksichtigen. Wir fordern zudem die Bereitstellung finanzieller Mittel, um auch solche Maßnahmen zu ermöglichen, die kurzfristig wirtschaftlich nicht profitabel erscheinen. Klimaschutz ist eine Investition in die Zukunft – und er hat seinen Preis. Fördermittel sollten konsequent eingeworben werden, wo immer es möglich ist. -->
-
-<!-- ### Unsere Ziele für 2025: -->
-<!-- Zum Jahresbeginn 2025 wünschen wir uns konkrete Schritte hin zu einer nachhaltigeren Klinik. Dazu zählen: -->
-
-<!-- * Nachhaltigkeit als Unternehmensziel: -->
-<!--   * Verankerung des Themas Klimaschutz und Nachhaltigkeit in den strategischen Zielen des Uniklinikums. -->
-<!-- * CO2-Reduktion mit klaren Zielen: -->
-<!-- * Eine systematische Prüfung aller Möglichkeiten, den CO2-Fußabdruck des Uniklinikums drastisch zu senken, mit dem langfristigen Ziel eines Zero-Emission-Hospitals. -->
-<!-- * Wir erwarten eine zeitnahe Prüfung und Umsetzung folgender Schritte: -->
-<!--     * Energetische Gebäudesanierung -->
-<!--     * Installation von Photovoltaikanlagen, wo immer möglich -->
-<!--     * Umstellung auf einen Ökostromanbieter -->
-<!--     * und weitere innovative Ansätze. -->
-
-<!-- Wirtschaftlich sinnvolle Maßnahmen sollten priorisiert werden. Gleichzeitig muss die Klinikleitung bereit sein, für den Klimaschutz auch in Bereiche zu investieren, die sich nicht unmittelbar monetär lohnen. -->
-
-<!-- ### Eine große Chance für die Zukunft -->
-<!-- Das Uniklinikum ??? hat die Möglichkeit, ein Vorbild im Klimaschutz zu werden – für andere Kliniken, Institutionen und die gesamte Gesellschaft. Lassen Sie uns diese Chance ergreifen und gemeinsam handeln! -->
-
-<!--0d6efd blau  -->
-<script>
-var OPWIDGET = {
-	"base_url": "https://www.openpetition.de",
-	"api_key": "503d7cf8e695626c0141b79fe478633307953f5275042f55d0095805a4fc5dce",
-	"options": {
-		"primarycolor": "#3e3d40", // andere Farben: https://www.w3schools.com/colors/colors_picker.asp
-		"secondarycolor": "#3e3d40",
-		"backgroundcolor": "#ffffff",
-		"mainfontsize": "15px"
-	}
-};
-</script>
-<script src="https://www.openpetition.de/javascript/widget.js"></script>
-<noscript>Bitte aktivieren Sie JavaScript und laden die Seite neu.</noscript>
+Und am Wichtigsten: [Unterschreibe die Petition für mehr Klimaschutz an der Hochschulmedizin Dresden!](petition.qmd)
