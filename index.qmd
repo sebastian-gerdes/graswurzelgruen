@@ -46,7 +46,7 @@ var OPWIDGET = {
 	"api_key": "503d7cf8e695626c0141b79fe478633307953f5275042f55d0095805a4fc5dce",
 	"options": {
 		"primarycolor": "#0000ff", // andere Farben: https://www.w3schools.com/colors/colors_picker.asp
-		"secondarycolor": "#cc0000",
+		"secondarycolor": "#3e3d40",
 		"backgroundcolor": "#ffffff",
 		"mainfontsize": "15px"
 	}
