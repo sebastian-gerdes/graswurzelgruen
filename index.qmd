@@ -1,11 +1,18 @@
 ---
-title: "Klimaschutz an der Uniklinik: Jetzt handeln!"
-subtitle: "Die Uniklinik wird grün!"
+title: "Für Klimaschutz an der Uniklinik: Jetzt handeln!"
 ---
 
 <div class="banner"></div>
 
-Der Klimawandel ist längst Realität –- und er erfordert entschlossenes Handeln. Als Mitarbeitende, Auszubildende und Studierende der Uniklinik ??? fordern wir ein klares Bekenntnis der Klinikleitung zu effektiven Klimaschutzmaßnahmen. Auch wenn unsere Schritte im globalen Kontext klein erscheinen mögen, könnte das Uniklinikum als Vorreiter im Klimaschutz ein starkes Signal setzen.
+<br>
+
+Der Klimawandel ist längst Realität und erfordert *jetzt* entschlossenes Handeln. 
+
+In den kommenden Monaten stehen große personelle Veränderungen an der Spitze der Uniklinik an. 
+
+Als Mitarbeitende, Auszubildende und Studierende der Uniklinik ??? fordern wir ein klares Bekenntnis der Klinikleitung zu effektiven Klimaschutzmaßnahmen. 
+
+Auch wenn unsere Schritte im globalen Kontext klein erscheinen mögen, könnte das Uniklinikum als Vorreiter im Klimaschutz ein starkes Signal setzen.
 
 <!-- ### Warum jetzt? -->
 <!-- Klimaschutz darf nicht länger warten. Maßnahmen sollten zeitnah und mit hoher Priorität geplant und umgesetzt werden. Dabei geht es nicht nur um ökologisch sinnvolle Veränderungen, sondern auch um ökonomische Nachhaltigkeit. Jede bauliche oder organisatorische Entscheidung muss den Klimaschutz als zentralen Aspekt berücksichtigen. Wir fordern zudem die Bereitstellung finanzieller Mittel, um auch solche Maßnahmen zu ermöglichen, die kurzfristig wirtschaftlich nicht profitabel erscheinen. Klimaschutz ist eine Investition in die Zukunft – und er hat seinen Preis. Fördermittel sollten konsequent eingeworben werden, wo immer es möglich ist. -->
