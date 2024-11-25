@@ -1,5 +1,6 @@
 project:
   type: website
+lang: de
 
 website:
   title: GrasWurzelGrün
@@ -16,6 +17,7 @@ website:
   twitter-card: true
   open-graph: true
   image: images/grass_2.jpg
+  body-header: "Diese Webseite ist am Entstehen. Die Inhalte sind noch nicht belastbar, nicht überprüft. Bei Rückfragen bitte die im Impressum genannte Person kontaktieren -- danke!"
 format:
   html:
     theme: cosmo

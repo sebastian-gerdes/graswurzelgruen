@@ -1,9 +1,24 @@
 ---
-title: "Klimaschutz am UKD"
+title: "Klimaschutz am UKD -- Entwurf"
 subtitle: "Die Uniklinik wird grün!"
 ---
 
 <div class="banner"></div>
+
+
+Zum Jahresbeginn des Jahres 2025 wünschen wir uns:
+
+* Verankerung des Themas Nachhaltigkeit in den Unternehmenszielen
+* Prüfung der Möglichkeiten, den CO2-Abdruck des Uniklinikums möglichst schnell zu reduzieren -- mit dem Ziel eines Zero-Emission-Hospitals
+* Dabei sollten zeitnah und möglichst schnell geprüft werden:
+  * Energetische Gebäudesanierung
+  * Photovoltaik wo möglich
+  * Umstieg auf einen Ökostromanbieter
+  * und und und
+* Wirtschaftlich sinnvolle Maßnahmen sollten Vorrang haben, aber es muss auch Geld locker gemacht werden!
+
+Eine tolle Chance -- das Uniklinikum Dresden könnte Vorreiter werden im Bereich Klimaschutz! Das wäre toll!
+
 
 <script>
 var OPWIDGET = {
