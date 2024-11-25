@@ -9,8 +9,8 @@ website:
     logo: images/grass_2.jpg
     left:
       - href: index.qmd
-        text: Start
-      - petition.qmd
+        text: Petition
+      # - petition.qmd
       # - news.qmd
   cookie-consent:
     type: express
