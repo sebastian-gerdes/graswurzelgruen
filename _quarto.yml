@@ -10,7 +10,7 @@ website:
     left:
       - href: index.qmd
         text: Start
-      - news.qmd
+      # - news.qmd
   cookie-consent:
     type: express
   page-footer: "[Impressum](/impressum.qmd) - [Datenschutzerklärung](/datenschutzerklaerung.qmd)"
