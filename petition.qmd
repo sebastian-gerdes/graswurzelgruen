@@ -10,7 +10,7 @@ var OPWIDGET = {
 	"options": {
 		"primarycolor": "#3e3d40", // andere Farben: https://www.w3schools.com/colors/colors_picker.asp
 		"secondarycolor": "#3e3d40",
-		"backgroundcolor": "#90ee90",
+		"backgroundcolor": "#ffffff",
 		"mainfontsize": "15px"
 	}
 };
