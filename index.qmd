@@ -1,5 +1,5 @@
 ---
-title: "Für Klimaschutz an der Hochschulmedizin Dresden: Jetzt handeln!"
+title: "GrasWurzelGrün ist schön"
 ---
 
 <div class="banner"></div>
@@ -8,33 +8,3 @@ title: "Für Klimaschutz an der Hochschulmedizin Dresden: Jetzt handeln!"
 
 Der Klimawandel ist längst Realität und erfordert *jetzt* entschlossenes Handeln. 
 
-In den kommenden Monaten stehen große personelle Veränderungen an der Spitze der Hochschulmedizin Dresden an -- das ist eine große Chance!
-
-Als Mitarbeitende, Auszubildende und Studierende der Hochschulmedizin Dresden ist uns das Thema **Klimaschutz** ein Herzensanliegen und wir fordern ein klares Bekenntnis der neuen Klinikleitung zu effektiven Klimaschutzmaßnahmen. 
-
-Sicherlich werden viele wichtige Themen und begründete Anliegen an das neu zusammengesetzte Leitungsteam herangetragen -- wir möchten uns dafür einsetzen, dass dabei auch das Thema Klimaschutz die Priorität bekommt, die es verdient!
-
-Auch wenn unsere Schritte im globalen Kontext klein erscheinen mögen, könnte die Hochschulmedizin Dresden als Vorreiter im Klimaschutz ein starkes Signal setzen.
-
-Wer mag, trete gern mit diesem [Link](https://signal.group/#CjQKIDh6EFRxpkJBwy1onl21FlMoOnqu74Owc2Tha9rb1oBsEhBo912oRq88p9McaeI1JC71) der Graswurzelgrün-[Signal](https://de.wikipedia.org/wiki/Signal_(Messenger))-Gruppe bei um auf dem Laufen zu bleiben und sich mit Gleichgesinnten zu vernetzen!
-
-**Und am wichtigsten: Zeichnung der Petition für mehr Klimaschutz an der Hochschulmedizin Dresden, realisiert über die Plattform [openPetition](https://www.openpetition.de/):**
-
-<!-- Und am Wichtigsten: [Unterschreibe die Petition für mehr Klimaschutz an der Hochschulmedizin Dresden!](petition.qmd) -->
-
-
-<!--0d6efd blau  -->
-<script>
-var OPWIDGET = {
-	"base_url": "https://www.openpetition.de",
-	"api_key": "503d7cf8e695626c0141b79fe478633307953f5275042f55d0095805a4fc5dce",
-	"options": {
-		"primarycolor": "#3e3d40", // andere Farben: https://www.w3schools.com/colors/colors_picker.asp
-		"secondarycolor": "#3e3d40",
-		"backgroundcolor": "#ffffff",
-		"mainfontsize": "15px"
-	}
-};
-</script>
-<script src="https://www.openpetition.de/javascript/widget.js"></script>
-<noscript>Bitte aktivieren Sie JavaScript und laden die Seite neu.</noscript>
